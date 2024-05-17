@@ -1,9 +1,14 @@
 - 👋 Hi, I’m Sajid Ali Paguthaniya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+  I am interested in BACKEND ENGINEERING
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on opensource projects
+- 📫 How to reach me (here)[]
+- ⚡ Fun fact: I integrated an ML framework to a restapi
+
+- Languages
+  * JavaScript (NodeJS)
+  * Python (writing APIs)
+  * PHP
 
 <!---
 SajidAliP/SajidAliP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
